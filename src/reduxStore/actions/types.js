@@ -1,0 +1,13 @@
+export const UserConstants={
+    SET_USER:'SET_USER',
+    CLEAR_USER:'CLEAR_USER',
+    LOADING_USER:'LOADING_USER'
+}
+
+export const ChannelConstants={
+    SET_CURRENT_CHANNEL:'SET_CURRENT_CHANNEL',
+    SET_PRIVATE_CHANNEL:'SET_PRIVATE_CHANNEL',
+    SET_USER_POSTS:'SET_USER_POSTS'
+}
+
+export const SET_COLORS='SET_COLORS';
